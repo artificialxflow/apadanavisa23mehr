@@ -1,0 +1,6 @@
+{
+  "name": "آپادانا ویزا - خدمات مهاجرت به کانادا",
+  "description": "پلتفرم جامع و مدرن خدمات مسافری، ویزا و مهاجرت به کانادا شامل لندینگ پیج و پنل مدیریت.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
